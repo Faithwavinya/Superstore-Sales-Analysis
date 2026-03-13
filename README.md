@@ -2,6 +2,8 @@
 Interactive Excel Dashboard analyzing the impact of discounting on retail profitability.
 RETAIL PROFITABILITY & DISCOUNT AUDIT
 
+<img width="933" height="638" alt="Screenshot 2026-03-13 153751" src="https://github.com/user-attachments/assets/7d76215a-ac36-4cbd-b7fe-f53910862096" />
+
 Data Analyst Portfolio Project
 1. Problem Statement
 While analyzing a retail dataset with $2.2M in sales volume, I identified a significant "margin leakage" within specific high-revenue categories. Despite strong sales, the Furniture sector was consistently underperforming in net profit compared to other departments. The existing data lacked a clear visualization to explain why high transaction volumes were failing to translate into take-home profit.
